@@ -147,7 +147,7 @@ resource "aws_instance" "eg_prod_bastion_xyz" {
 
 **Got a question?**
 
-File a GitHub [issue](https://github.com/terraform-library/terraform-label/issues),
+File a GitHub [issue](https://github.com/terraform-library/terraform-label/issues)
 
 ## Contributing
 
